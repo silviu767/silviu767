@@ -12,7 +12,8 @@ Right now I'm working on a marketplace platform and building its listing-moderat
   <img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=cs" width="48" alt="C#" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite" width="48" alt="SQLite" />
+  <img src="https://skillicons.dev/icons?i=sqlite" width="48" alt="SQLite" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" />
 </p>
 
 ### Goal
