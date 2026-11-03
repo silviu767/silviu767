@@ -5,6 +5,7 @@ I'm a developer just starting out, curious about backend, AI and machine learnin
 Right now I'm working on a marketplace platform and building its listing-moderation algorithm in Python. Alongside that, I'm learning Python in depth through my own projects, like CLI apps that store their data in JSON and SQLite.
 
 ### Tech
+### Tech
 
 <p>
   <img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" />&nbsp;&nbsp;&nbsp;
@@ -13,7 +14,9 @@ Right now I'm working on a marketplace platform and building its listing-moderat
   <img src="https://skillicons.dev/icons?i=cs" width="48" alt="C#" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=sqlite" width="48" alt="SQLite" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis" />
 </p>
 
 ### Goal
